@@ -1,0 +1,6 @@
+{
+  "name": "Deadpool Comic Chaos Hub",
+  "description": "An interactive, comical Deadpool-themed comic adventure hub featuring missions, hilarious memes, sound effects, chaos buttons, and easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
