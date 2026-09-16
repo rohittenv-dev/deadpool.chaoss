@@ -1,6 +1,6 @@
 # 🩸 Deadpool CHAOSS
 
-::: {align="center"}
+
 # 💥 Deadpool Comic Chaos Hub
 
 ### A comic-book inspired interactive web experience built with React, TypeScript & Vite.
